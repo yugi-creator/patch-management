@@ -1,6 +1,6 @@
 // src/components/Header.jsx
 import React from 'react';
-import './static/css/header.css';
+import './assests/css/header.css';
 
 function Header({ toggleSidebar }) {
   return (
@@ -8,7 +8,7 @@ function Header({ toggleSidebar }) {
       <button className="hamburger-menu" onClick={toggleSidebar}>
         &#9776;
       </button>
-      <h1 className="header-title">Patch Management Tool</h1>
+      <h1 className="header-title">Report Tool</h1>
     </header>
   );
 }

@@ -1,7 +1,7 @@
 // src/components/Master.jsx
 import React, { useState } from 'react';
 import PopupForm from './popupForm';
-import './static/css/master.css';
+import './assests/css/master.css';
 import { IconButton } from '@mui/material';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';

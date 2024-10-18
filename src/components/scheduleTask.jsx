@@ -1,7 +1,7 @@
 // src/components/ScheduleTask.jsx
 import React, { useState } from 'react';
 import PopupForm from './popupForm';
-import './static/css/scheduleTask.css';
+import './assests/css/scheduleTask.css';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 

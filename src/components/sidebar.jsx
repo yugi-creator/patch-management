@@ -1,6 +1,6 @@
 // src/components/Sidebar.jsx
 import React from 'react';
-import './static/css/sidebar.css';
+import './assests/css/sidebar.css';
 
 function Sidebar({ setActivePage, isSidebarOpen }) {
   return (

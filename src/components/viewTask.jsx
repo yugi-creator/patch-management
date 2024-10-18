@@ -1,6 +1,6 @@
 // src/components/ViewTask.jsx
 import React from 'react';
-import './static/css/viewTask.css';
+import './assests/css/viewTask.css';
 import {
   MaterialReactTable,
   useMaterialReactTable,

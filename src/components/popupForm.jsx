@@ -1,6 +1,6 @@
 // src/components/popupForm.jsx
 import React from 'react';
-import './static/css/popupForm.css';
+import './assests/css/popupForm.css';
 
 const PopupForm = ({ isOpen, onClose, formFields, onSubmit }) => {
   if (!isOpen) return null;
